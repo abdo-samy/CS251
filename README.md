@@ -25,7 +25,7 @@ A simple and efficient **Java-based console application** designed to manage a c
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/abdo-samy/CS251.git](https://github.com/abdo-samy/CS251.git)
     ```
 2.  **Compile the code:**
     ```bash
@@ -45,4 +45,4 @@ A simple and efficient **Java-based console application** designed to manage a c
 * **Manager Password:** `1234`
 
 ---
-*Created with ❤️ by [Your Name]*
+*Created with ❤️ by [Abdelrahman Samy Abdelgawad]*
